@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tetris for Kids</string>
+    <string name="btn_rotate">ROTATE</string>
+    <string name="btn_left">LEFT</string>
+    <string name="btn_right">RIGHT</string>
+    <string name="btn_down">DOWN</string>
+    <string name="lines_label">Lines: %d</string>
+    <string name="tap_to_start">Tap to start!</string>
+    <string name="game_over">Game Over!\nTap to play again</string>
+</resources>

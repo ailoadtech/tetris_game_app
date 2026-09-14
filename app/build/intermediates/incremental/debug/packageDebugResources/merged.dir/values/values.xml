@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#FFE8F5E9</color>
+    <color name="board_bg">#FFFFFFFF</color>
+    <color name="grid_line">#FFA5D6A7</color>
+    <color name="icon_bg">#FF4E342E</color>
+    <color name="text_dark">#FF4E342E</color>
+    <string name="app_name">Tetris for Kids</string>
+    <string name="btn_down">DOWN</string>
+    <string name="btn_left">LEFT</string>
+    <string name="btn_right">RIGHT</string>
+    <string name="btn_rotate">ROTATE</string>
+    <string name="game_over">Game Over!\nTap to play again</string>
+    <string name="lines_label">Lines: %d</string>
+    <string name="tap_to_start">Tap to start!</string>
+    <style name="Theme.Tetris" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#FF6D4C41</item>
+        <item name="colorPrimaryVariant">#FF4E342E</item>
+        <item name="colorOnPrimary">#FFFFFFFF</item>
+        <item name="colorSecondary">#FFFFA726</item>
+        <item name="android:windowBackground">@color/bg</item>
+        <item name="android:statusBarColor">#FF4E342E</item>
+    </style>
+</resources>

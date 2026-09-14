@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "com.kids.tetris.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.kids.tetris.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.kids.tetris.app-merged_res-31:/raw_lineclear.wav.flat",
+        "source": "com.kids.tetris.app-main-33:/raw/lineclear.wav"
+    },
+    {
+        "merged": "com.kids.tetris.app-merged_res-31:/drawable_btn_green.xml.flat",
+        "source": "com.kids.tetris.app-main-33:/drawable/btn_green.xml"
+    },
+    {
+        "merged": "com.kids.tetris.app-merged_res-31:/raw_harddrop.wav.flat",
+        "source": "com.kids.tetris.app-main-33:/raw/harddrop.wav"
+    },
+    {
+        "merged": "com.kids.tetris.app-merged_res-31:/drawable_ic_rotate.xml.flat",
+        "source": "com.kids.tetris.app-main-33:/drawable/ic_rotate.xml"
+    },
+    {
+        "merged": "com.kids.tetris.app-merged_res-31:/drawable_ic_right.xml.flat",
+        "source": "com.kids.tetris.app-main-33:/drawable/ic_right.xml"
+    },
+    {
+        "merged": "com.kids.tetris.app-merged_res-31:/raw_tick.wav.flat",
+        "source": "com.kids.tetris.app-main-33:/raw/tick.wav"
+    },
+    {
+        "merged": "com.kids.tetris.app-merged_res-31:/drawable_ic_down.xml.flat",
+        "source": "com.kids.tetris.app-main-33:/drawable/ic_down.xml"
+    },
+    {
+        "merged": "com.kids.tetris.app-merged_res-31:/drawable_btn_purple.xml.flat",
+        "source": "com.kids.tetris.app-main-33:/drawable/btn_purple.xml"
+    },
+    {
+        "merged": "com.kids.tetris.app-merged_res-31:/drawable_ic_left.xml.flat",
+        "source": "com.kids.tetris.app-main-33:/drawable/ic_left.xml"
+    },
+    {
+        "merged": "/home/franks/.gradle/daemon/8.7/com.kids.tetris.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/franks/.gradle/daemon/8.7/com.kids.tetris.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/franks/.gradle/daemon/8.7/com.kids.tetris.app-merged_res-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/franks/.gradle/daemon/8.7/com.kids.tetris.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.kids.tetris.app-merged_res-31:/drawable_btn_blue.xml.flat",
+        "source": "com.kids.tetris.app-main-33:/drawable/btn_blue.xml"
+    },
+    {
+        "merged": "com.kids.tetris.app-merged_res-31:/drawable_btn_orange.xml.flat",
+        "source": "com.kids.tetris.app-main-33:/drawable/btn_orange.xml"
+    },
+    {
+        "merged": "com.kids.tetris.app-merged_res-31:/raw_gameover.wav.flat",
+        "source": "com.kids.tetris.app-main-33:/raw/gameover.wav"
+    },
+    {
+        "merged": "/home/franks/.gradle/daemon/8.7/com.kids.tetris.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "/home/franks/.gradle/daemon/8.7/com.kids.tetris.app-main-33:/layout/activity_main.xml"
+    }
+]

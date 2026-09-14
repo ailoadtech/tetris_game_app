@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Tetris" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#FF6D4C41</item>
+        <item name="colorPrimaryVariant">#FF4E342E</item>
+        <item name="colorOnPrimary">#FFFFFFFF</item>
+        <item name="colorSecondary">#FFFFA726</item>
+        <item name="android:windowBackground">@color/bg</item>
+        <item name="android:statusBarColor">#FF4E342E</item>
+    </style>
+</resources>
